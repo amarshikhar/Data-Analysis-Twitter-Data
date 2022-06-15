@@ -4,7 +4,7 @@ At first we read 1st data sheet from xlsx into Dataframe. Then we access 2nd dat
 
 We merge the two sheet based on their common username column. We had to change the column name in data sheet 2 for that to work.
 
-We find the null values. We observe that two columns where all null. We removed those columns as no information will be gained from that.
+We find the null values. We observe that two columns weere all null. We removed those columns as no information will be gained from that.
 
 We study the dataframe's basic statistics. Std deviation, percentiles, max, min. We get a general statistical behaviour of data.
 
