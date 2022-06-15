@@ -17,7 +17,7 @@ We add year, month, date, week column for visualisation.
 We create new metrics. Total Engagement= Shares + Likes + Citations.
 Engagement rate (ER)=  (Total Engagement/Total Followers)*100(Assuming friedns and followers are same)
 
-# Visulisation
+# Visualisation
 
 We plot a Lineplots using seaborn to visulaise Gender based User activity using Engament rate/Total Engagements through time.
 
