@@ -18,7 +18,7 @@ We create new metrics. Total Engagement= Shares + Likes + Citations. Engagement 
 
 # Visualisation
 
-We plot a Lineplots using seaborn to visualise Gender based User activity using Engagement rate/Total Engagements through time.
+We plot Lineplots using seaborn to visualise Gender based User activity using Engagement rate/Total Engagements through time.
 
 We plot a Barplot to visualise cumulative gender-based activity(TotalEngagement) on each date. We observe Males get more engagement.
 
