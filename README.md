@@ -46,7 +46,7 @@ Next, we find the user with the most engagement for every month. We add the enga
 
 # Classifying users
 
-Engagement rate is highly correlated with Total Engagement. And through heat map we find the Follower count is less correlated to the Engagement rate. We can build a model to classify using followers count, engagement rate but it would require more resources hence, we decided to classify users based on engagement rate which is our best parameter.
+Engagement rate is highly correlated with Total Engagement. And through heat map we find the Follower count is less correlated to the Engagement rate. We can build a model to classify using followers count, engagement rate but it would require more resources hence, we decided to classify users based on engagement rate which is a good enough feature.
 
 We add aggregate engagement rate for each user and create a new dataframe. From ~40,000 usernames we get unique 15467 usernames. We will classify 15,467 users. 
 
