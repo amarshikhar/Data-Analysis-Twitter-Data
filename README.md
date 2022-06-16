@@ -26,7 +26,7 @@ We plot a Barplot to visualise cumulative gender-based activity(TotalEngagement)
 
 We plot the Engagement rate and Total Engagement for each month of the year.
 
-We plotted scatterplots between followersCount and EngagementRate/Total Engagement. We observe many of the engagement happens at the lower end of the follower's count. This uncovers the democratic nature of Twitter.
+We plotted scatterplots between followersCount and EngagementRate/Total Engagement. We observe many of the engagement happens at the lower end of the follower's count. This uncovers the democratic nature of Twitter. This also tells us that people with most followers count are not active enough to get enough enagagement.
 
 We plot a correlation heat map. As expected total engagement and Engagement Rate are highly correlated. Followers count is positively correlated to total engagement.
 
