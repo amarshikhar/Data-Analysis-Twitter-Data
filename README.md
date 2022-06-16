@@ -20,11 +20,13 @@ We create new metrics. Total Engagement= Shares + Likes + Citations. Engagement 
 
 We plot a Lineplots using seaborn to visualise Gender based User activity using Engagement rate/Total Engagements through time.
 
+![img/gen.jpg](img/gen.jpg)
+
 We plot a Barplot to visualise cumulative gender-based activity(TotalEngagement) on each date. We observe Males get more engagement.
 
 We plot the Engagement rate and Total Engagement for each month of the year.
 
-We plotted scatterplots between followersCount and EngagementRate/Total Engagement. We observe many of the engagement happens at the lower end of the follower's count. This uncovers the democratic nature of Twitter.
+We plotted scatterplots between followersCount and EngagementRate/Total Engagement. We observe many of the engagement happens at the lower end of the follower's count. This uncovers the democratic nature of Twitter. This also tells us that people with most followers count are not active enough to get enough enagagement.
 
 We plot a correlation heat map. As expected total engagement and Engagement Rate are highly correlated. Followers count is positively correlated to total engagement.
 
@@ -40,7 +42,7 @@ Next, we find the user with the most engagement for every month. We add the enga
 
 # Classifying users
 
-Since Engagement rate is highly correlated with Total Engagement. And the Follower count is less correlated to the Engagement rate. We decided to classify users based on engagement rate.
+Engagement rate is highly correlated with Total Engagement. And through heat map we find the Follower count is less correlated to the Engagement rate. We decided to classify users based on engagement rate.
 
 We add aggregate engagement rate for each user and create a new dataframe. From ~40,000 usernames we get unique 15467 usernames. We will classify 15,467 users. 
 
