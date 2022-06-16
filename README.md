@@ -42,7 +42,7 @@ Next, we find the user with the most engagement for every month. We add the enga
 
 Since Engagement rate is highly correlated with Total Engagement. And the Follower count is less correlated to the Engagement rate. We decided to classify users based on engagement rate.
 
-We add an engagement rate for each user and create a new dataframe. From ~40,000 usernames we get unique 15467 usernames. We will classify 15,467 users. 
+We add aggregate engagement rate for each user and create a new dataframe. From ~40,000 usernames we get unique 15467 usernames. We will classify 15,467 users. 
 
 The engagement rate is widely spread among users. 75% of users have a below 3.125 engagement rate. The mean engagement rate is 33. Some users will have high engagement, even though many engagements happen at the lower end of followers
 
