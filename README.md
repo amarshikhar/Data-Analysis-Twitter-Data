@@ -54,7 +54,7 @@ A 644. B 898. C 753. D 799. E 768. F 778. G 774. H 770. I 776. J 8507.
 
 ![img/qttl.jpg](img/qttl.jpg)
 
-We have classified users successfully based on Engagement Rate. We can access any quantile eg. A quantile to classify more labelled data by repeating the process, i.e. We can go further and divide our data more to get top users.
+We have classified users successfully based on Engagement Rate. We can access any quantile eg. A quantile to classify more labelled data by repeating the process, i.e. We can go further and divide our data more to get more top users.
 
 
 
