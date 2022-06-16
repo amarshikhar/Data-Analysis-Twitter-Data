@@ -22,6 +22,10 @@ We plot a Lineplots using seaborn to visualise Gender based User activity using 
 
 ![img/gen.jpg](img/gen.jpg)
 
+We plot a Lineplots using seaborn to visualise Age based User activity using Engagement rate/Total Engagements through time.
+
+![img/age.jpg](img/age.jpg)
+
 We plot a Barplot to visualise cumulative gender-based activity(TotalEngagement) on each date. We observe Males get more engagement.
 
 We plot the Engagement rate and Total Engagement for each month of the year.
